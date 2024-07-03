@@ -11,14 +11,14 @@ title: Research
 We consider impulse response inference in a locally misspecified stationary vector autoregression (VAR) model. The conventional local projection (LP) confidence interval has correct coverage even when the misspecification is so large that it can be detected with probability approaching 1. This follows from a "double robustness" property analogous to that of modern estimators for partially linear regressions. In contrast, VAR confidence intervals dramatically undercover even for misspecification so small that it is difficult to detect statistically and cannot be ruled out based on economic theory. This is because of a "no free lunch" result for VARs: the worst-case bias and coverage distortion are small if, and only if, the variance is close to that of LP. While VAR coverage can be restored by using a bias-aware critical value or a large lag length, the resulting confidence interval tends to be at least as wide as the LP interval.
 </small></div>
 
-**Standard Errors for Calibrated Parameters** (with Matthew D. Cocci). 2024.\
+
+## Publications
+
+**Standard Errors for Calibrated Parameters** (with Matthew D. Cocci). *Review of Economic Studies*, 2024, accepted.\
 <small><a href="#/" onclick="visib('calibration')">Abstract</a> &bull; [Working paper](../files/calibration.pdf) &bull; [Supplement](../files/calibration_supplement.pdf) &bull; [Slides](../files/calibration_slides.pdf) &bull; [Python code](https://github.com/mikkelpm/stderr_calibration_python) &bull; [Matlab code](https://github.com/mikkelpm/stderr_calibration_matlab) &bull; [arXiv](https://arxiv.org/abs/2109.08109)</small>
 <div id="calibration" style="display: none; text-align: justify; line-height: 1.1; margin: -1em 0em 1em 0em" ><small>
 Calibration, the practice of choosing the parameters of a structural model to match certain empirical moments, can be viewed as minimum distance estimation. Existing standard error formulas for such estimators require a consistent estimate of the correlation structure of the empirical moments, which is often unavailable in practice. Instead, the variances of the individual empirical moments are usually readily estimable. Using only these variances, we derive conservative standard errors and confidence intervals for the structural parameters that are valid even under the worst-case correlation structure. In the over-identified case, we show that the moment weighting scheme that minimizes the worst-case estimator variance amounts to a moment selection problem with a simple solution. Finally, we develop tests of over-identifying or parameter restrictions. We apply our methods empirically to a model of menu cost pricing for multi-product firms and to a heterogeneous agent New Keynesian model.
 </small></div>
-
-
-## Publications
 
 **Local Projections vs. VARs: Lessons From Thousands of DGPs** (with Dake Li and Christian K. Wolf). *Journal of Econometrics*, 2024, accepted.\
 <small><a href="#/" onclick="visib('lp-var-simul')">Abstract</a> &bull; [Published version](https://doi.org/10.1016/j.jeconom.2024.105722) &bull; [Working paper](../files/lp_var_simul.pdf) &bull; [Supplement](../files/lp_var_simul_supplement.pdf) &bull; [Slides](../files/lp_var_simul_slides.pdf) &bull; [Matlab code](https://github.com/dake-li/lp_var_simul) &bull; [arXiv](https://arxiv.org/abs/2104.00655)</small>
