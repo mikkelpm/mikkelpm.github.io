@@ -12,7 +12,8 @@ We consider impulse response inference in a locally misspecified vector autoregr
 </small></div>
 
 **Dynamic Causal Effects in a Nonlinear World: the Good, the Bad, and the Ugly** (with Michal Kolesár). 2024.\
-<small><a href="#/" onclick="visib('nonlinear_causal')">Abstract</a> &bull; [Working paper](../files/nonlinear_causal.pdf) &bull; [Stata code](https://github.com/mikkelpm/nonlinear_dynamic_causal) &bull; [arXiv](https://arxiv.org/abs/2411.10415)</small>
+<small>Invited JBES Lecture at the 2025 North American Winter Meeting of the Econometric Society.<br>
+<a href="#/" onclick="visib('nonlinear_causal')">Abstract</a> &bull; [Working paper](../files/nonlinear_causal.pdf) &bull; [Slides](../files/nonlinear_causal_slides.pdf) &bull; [Stata code](https://github.com/mikkelpm/nonlinear_dynamic_causal) &bull; [arXiv](https://arxiv.org/abs/2411.10415)</small>
 <div id="nonlinear_causal" style="display: none; text-align: justify; line-height: 1.1; margin: -1em 0em 1em 0em" ><small>
 Applied macroeconomists frequently use impulse response estimators motivated by linear models. We study whether the estimands of such procedures have a causal interpretation when the true data generating process is in fact nonlinear. We show that vector autoregressions and linear local projections onto observed shocks or proxies identify weighted averages of causal effects regardless of the extent of nonlinearities. By contrast, identification approaches that exploit heteroskedasticity or non-Gaussianity of latent shocks are highly sensitive to departures from linearity. Our analysis is based on new results on the identification of marginal treatment effects through weighted regressions, which may also be of interest to researchers outside macroeconomics.
 </small></div>
