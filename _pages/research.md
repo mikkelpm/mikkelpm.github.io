@@ -18,6 +18,13 @@ We consider impulse response inference in a locally misspecified vector autoregr
 Applied macroeconomists frequently use impulse response estimators motivated by linear models. We study whether the estimands of such procedures have a causal interpretation when the true data generating process is in fact nonlinear. We show that vector autoregressions and linear local projections onto observed shocks or proxies identify weighted averages of causal effects regardless of the extent of nonlinearities. By contrast, identification approaches that exploit heteroskedasticity or non-Gaussianity of latent shocks are highly sensitive to departures from linearity. Our analysis is based on new results on the identification of marginal treatment effects through weighted regressions, which may also be of interest to researchers outside macroeconomics.
 </small></div>
 
+**Local Projections or VARs? A Primer for Macroeconomists** (with José Luis Montiel Olea, Eric Qian, and Christian K. Wolf). 2025.\
+<small>Prepared for the NBER Macroeconomics Annual 2025. Preliminary and incomplete - comments welcome!<br>
+<a href="#/" onclick="visib('lp_var_primer')">Abstract</a> &bull; [Working paper](../files/lp_var_primer.pdf) &bull; [Supplement](../files/lp_var_primer_supplement.pdf)</small>
+<div id="lp_var_primer" style="display: none; text-align: justify; line-height: 1.1; margin: -1em 0em 1em 0em" ><small>
+What should applied macroeconomists know about local projection (LP) and vector autoregression (VAR) impulse response estimators? The two methods share the same estimand, but in finite samples lie on opposite ends of a bias-variance trade-off. While the low bias of LPs comes at a quite steep variance cost, this cost must be paid to achieve robust uncertainty assessments. VARs should thus only be used with long lag lengths, ensuring equivalence with LP. For LP estimation, we provide guidance on selection of lag length and controls, bias correction, and standard error construction.
+</small></div>
+
 
 ## Publications
 
