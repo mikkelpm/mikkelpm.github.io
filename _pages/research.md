@@ -19,10 +19,10 @@ Applied macroeconomists frequently use impulse response estimators motivated by 
 </small></div>
 
 **Local Projections or VARs? A Primer for Macroeconomists** (with José Luis Montiel Olea, Eric Qian, and Christian K. Wolf). 2025.\
-<small>Prepared for the NBER Macroeconomics Annual 2025. Preliminary and incomplete - comments welcome!<br>
+<small>Prepared for the NBER Macroeconomics Annual 2025.<br>
 <a href="#/" onclick="visib('lp_var_primer')">Abstract</a> &bull; [Working paper](../files/lp_var_primer.pdf) &bull; [Supplement](../files/lp_var_primer_supplement.pdf)</small>
 <div id="lp_var_primer" style="display: none; text-align: justify; line-height: 1.1; margin: -1em 0em 1em 0em" ><small>
-What should applied macroeconomists know about local projection (LP) and vector autoregression (VAR) impulse response estimators? The two methods share the same estimand, but in finite samples lie on opposite ends of a bias-variance trade-off. While the low bias of LPs comes at a quite steep variance cost, this cost must be paid to achieve robust uncertainty assessments. VARs should thus only be used with long lag lengths, ensuring equivalence with LP. For LP estimation, we provide guidance on selection of lag length and controls, bias correction, and standard error construction.
+What should applied macroeconomists know about local projection (LP) and vector autoregression (VAR) impulse response estimators? The two methods share the same estimand, but in finite samples lie on opposite ends of a bias-variance trade-off. While the low bias of LPs comes at a quite steep variance cost, this cost must be paid to achieve robust uncertainty assessments. VARs should thus only be used with long lag lengths, ensuring equivalence with LP. For LP estimation, we provide guidance on selection of lag length and controls, bias correction, and confidence interval construction.
 </small></div>
 
 
