@@ -11,7 +11,7 @@ title: Research
 We consider impulse response inference in a locally misspecified vector autoregression (VAR) model. The conventional local projection (LP) confidence interval has correct coverage even when the misspecification is so large that it can be detected with probability approaching 1. This result follows from a "double robustness" property analogous to that of popular partially linear regression estimators. In contrast, the conventional VAR confidence interval with short-to-moderate lag length can severely undercover, even for misspecification that is small, economically plausible, and difficult to detect statistically. There is no free lunch: the VAR confidence interval has robust coverage only if the lag length is so large that the interval is as wide as the LP interval.
 </small></div>
 
-**Dynamic Causal Effects in a Nonlinear World: the Good, the Bad, and the Ugly** (with Michal Kolesár). 2024.\
+**Dynamic Causal Effects in a Nonlinear World: the Good, the Bad, and the Ugly** (with Michal Kolesár). 2025.\
 <small>Invited JBES Lecture at the 2025 North American Winter Meeting of the Econometric Society.<br>
 <a href="#/" onclick="visib('nonlinear_causal')">Abstract</a> &bull; [Working paper](../files/nonlinear_causal.pdf) &bull; [Slides](../files/nonlinear_causal_slides.pdf) &bull; [Stata code](https://github.com/mikkelpm/nonlinear_dynamic_causal) &bull; [arXiv](https://arxiv.org/abs/2411.10415)</small>
 <div id="nonlinear_causal" style="display: none; text-align: justify; line-height: 1.1; margin: -1em 0em 1em 0em" ><small>
