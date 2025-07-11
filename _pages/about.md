@@ -8,10 +8,8 @@ redirect_from:
 ---
 
 \
-I'm Professor of Economics at Princeton University.
-
-- [CV](files/cv_mikkel_plagborg_moller.pdf)
-- [Research Statement](files/research_statement.pdf)
+Professor of Economics\
+Princeton University
 
 ### Contact information:
 Office 282\
