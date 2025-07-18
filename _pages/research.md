@@ -11,14 +11,14 @@ title: Research
 We consider impulse response inference in a locally misspecified vector autoregression (VAR) model. The conventional local projection (LP) confidence interval has correct coverage even when the misspecification is so large that it can be detected with probability approaching 1. This result follows from a "double robustness" property analogous to that of popular partially linear regression estimators. In contrast, the conventional VAR confidence interval with short-to-moderate lag length can severely undercover, even for misspecification that is small, economically plausible, and difficult to detect statistically. There is no free lunch: the VAR confidence interval has robust coverage only if the lag length is so large that the interval is as wide as the LP interval.
 </small></div>
 
-**Dynamic Causal Effects in a Nonlinear World: the Good, the Bad, and the Ugly** (with Michal Kolesár). 2025.\
+## Publications
+
+**Dynamic Causal Effects in a Nonlinear World: the Good, the Bad, and the Ugly** (with Michal Kolesár). *Journal of Business & Economic Statistics*, 2025, accepted.\
 <small>Invited JBES Lecture at the 2025 North American Winter Meeting of the Econometric Society.<br>
 <a href="#/" onclick="visib('nonlinear_causal')">Abstract</a> &bull; [Working paper](../files/nonlinear_causal.pdf) &bull; [Supplement](../files/nonlinear_causal_supplement.pdf) &bull; [Slides](../files/nonlinear_causal_slides.pdf) &bull; [Rejoinder to discussants](../files/nonlinear_causal_rejoinder.pdf) &bull; [Stata code](https://github.com/mikkelpm/nonlinear_dynamic_causal) &bull; [arXiv](https://arxiv.org/abs/2411.10415)</small>
 <div id="nonlinear_causal" style="display: none; text-align: justify; line-height: 1.1; margin: -1em 0em 1em 0em" ><small>
 Applied macroeconomists frequently use impulse response estimators motivated by linear models. We study whether the estimands of such procedures have a causal interpretation when the data generating process is in fact nonlinear. We show that vector autoregressions and linear local projections onto observed shocks or proxies identify weighted averages of causal effects regardless of the extent of nonlinearities. By contrast, identification approaches that exploit heteroskedasticity or non-Gaussianity of latent shocks are highly sensitive to departures from linearity. Our analysis is based on new results on the identification of marginal treatment effects through weighted regressions, which may also be of interest to researchers outside macroeconomics.
 </small></div>
-
-## Publications
 
 **Local Projections or VARs? A Primer for Macroeconomists** (with José Luis Montiel Olea, Eric Qian, and Christian K. Wolf). *NBER Macroeconomics Annual*, 2025, accepted.\
 <small><a href="#/" onclick="visib('lp_var_primer')">Abstract</a> &bull; [Working paper](../files/lp_var_primer.pdf) &bull; [Supplement](../files/lp_var_primer_supplement.pdf) &bull; [Matlab code](https://github.com/ckwolf92/lp_var_nberma) &bull; [arXiv](https://arxiv.org/abs/2503.17144)</small>
