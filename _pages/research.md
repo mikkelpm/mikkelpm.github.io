@@ -5,10 +5,10 @@ title: Research
 
 ## Working papers
 
-**Double Robustness of Local Projections and Some Unpleasant VARithmetic** (with José Luis Montiel Olea, Eric Qian, and Christian K. Wolf). 2024.\
+**Double Robustness of Local Projections and Some Unpleasant VARithmetic** (with José Luis Montiel Olea, Eric Qian, and Christian K. Wolf). 2025.\
 <small><a href="#/" onclick="visib('lp_varithmetic')">Abstract</a> &bull; [Working paper](../files/lp_varithmetic.pdf) &bull; [Supplement](../files/lp_varithmetic_supplement.pdf) &bull; [Slides](../files/lp_varithmetic_slides.pdf) &bull; [Matlab code](https://github.com/ckwolf92/lp_var_inference) &bull; [arXiv](https://arxiv.org/abs/2405.09509)</small>
 <div id="lp_varithmetic" style="display: none; text-align: justify; line-height: 1.1; margin: -1em 0em 1em 0em" ><small>
-We consider impulse response inference in a locally misspecified vector autoregression (VAR) model. The conventional local projection (LP) confidence interval has correct coverage even when the misspecification is so large that it can be detected with probability approaching 1. This result follows from a "double robustness" property analogous to that of popular partially linear regression estimators. In contrast, the conventional VAR confidence interval with short-to-moderate lag length can severely undercover, even for misspecification that is small, economically plausible, and difficult to detect statistically. There is no free lunch: the VAR confidence interval has robust coverage only if the lag length is so large that the interval is as wide as the LP interval.
+We consider impulse response inference in a locally misspecified vector autoregression (VAR) model. The conventional local projection (LP) confidence interval has correct coverage even when the misspecification is so large that it can be detected with probability approaching 1. This result follows from a "double robustness" property analogous to that of popular partially linear regression estimators. By contrast, the conventional VAR confidence interval with short-to-moderate lag length can severely undercover for misspecification that is small, difficult to detect statistically, and cannot be ruled out based on economic theory. The VAR confidence interval has robust coverage if, and only if, the lag length is so large that the interval is as wide as the LP interval.
 </small></div>
 
 ## Publications
