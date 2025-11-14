@@ -13,17 +13,17 @@ We consider impulse response inference in a locally misspecified vector autoregr
 
 ## Publications
 
-**Dynamic Causal Effects in a Nonlinear World: the Good, the Bad, and the Ugly** (with Michal Kolesár). *Journal of Business & Economic Statistics*, 2025, accepted.\
-<small>Invited JBES Lecture at the 2025 North American Winter Meeting of the Econometric Society.<br>
-<a href="#/" onclick="visib('nonlinear_causal')">Abstract</a> &bull; [Working paper](../files/nonlinear_causal.pdf) &bull; [Supplement](../files/nonlinear_causal_supplement.pdf) &bull; [Slides](../files/nonlinear_causal_slides.pdf) &bull; [Rejoinder to discussants](../files/nonlinear_causal_rejoinder.pdf) &bull; [Stata code](https://github.com/mikkelpm/nonlinear_dynamic_causal) &bull; [arXiv](https://arxiv.org/abs/2411.10415)</small>
-<div id="nonlinear_causal" style="display: none; text-align: justify; line-height: 1.1; margin: -1em 0em 1em 0em" ><small>
-Applied macroeconomists frequently use impulse response estimators motivated by linear models. We study whether the estimands of such procedures have a causal interpretation when the data generating process is in fact nonlinear. We show that vector autoregressions and linear local projections onto observed shocks or proxies identify weighted averages of causal effects regardless of the extent of nonlinearities. By contrast, identification approaches that exploit heteroskedasticity or non-Gaussianity of latent shocks are highly sensitive to departures from linearity. Our analysis is based on new results on the identification of marginal treatment effects through weighted regressions, which may also be of interest to researchers outside macroeconomics.
-</small></div>
-
 **Local Projections or VARs? A Primer for Macroeconomists** (with José Luis Montiel Olea, Eric Qian, and Christian K. Wolf). *NBER Macroeconomics Annual*, 2025, accepted.\
 <small><a href="#/" onclick="visib('lp_var_primer')">Abstract</a> &bull; [Working paper](../files/lp_var_primer.pdf) &bull; [Supplement](../files/lp_var_primer_supplement.pdf) &bull; [Slides](../files/lp_var_primer_slides.pdf) &bull; [Matlab code](https://github.com/ckwolf92/lp_var_nberma) &bull; [arXiv](https://arxiv.org/abs/2503.17144)</small>
 <div id="lp_var_primer" style="display: none; text-align: justify; line-height: 1.1; margin: -1em 0em 1em 0em" ><small>
 What should applied macroeconomists know about local projection (LP) and vector autoregression (VAR) impulse response estimators? The two methods share the same estimand, but in finite samples lie on opposite ends of a bias-variance trade-off. While the low bias of LPs comes at a quite steep variance cost, this cost must be paid to achieve robust uncertainty assessments. Hence, when the goal is to convey what can be learned about dynamic causal effects from the data, VARs should only be used with long lag lengths, ensuring equivalence with LP. For LP estimation, we provide guidance on selection of lag length and controls, bias correction, and confidence interval construction.
+</small></div>
+
+**Dynamic Causal Effects in a Nonlinear World: the Good, the Bad, and the Ugly** (with Michal Kolesár). *Journal of Business & Economic Statistics* 43(4), 2025, 737-754.\
+<small>Invited JBES Lecture at the 2025 North American Winter Meeting of the Econometric Society.<br>
+<a href="#/" onclick="visib('nonlinear_causal')">Abstract</a> &bull; [Published version](https://doi.org/10.1080/07350015.2025.2539478) (open access) &bull; [Published comments and rejoinder](https://www.tandfonline.com/toc/ubes20/43/4) &bull; [Working paper](../files/nonlinear_causal.pdf) &bull; [Supplement](../files/nonlinear_causal_supplement.pdf) &bull; [Slides](../files/nonlinear_causal_slides.pdf) &bull; [Rejoinder](../files/nonlinear_causal_rejoinder.pdf) &bull; [Stata code](https://github.com/mikkelpm/nonlinear_dynamic_causal) &bull; [arXiv](https://arxiv.org/abs/2411.10415)</small>
+<div id="nonlinear_causal" style="display: none; text-align: justify; line-height: 1.1; margin: -1em 0em 1em 0em" ><small>
+Applied macroeconomists frequently use impulse response estimators motivated by linear models. We study whether the estimands of such procedures have a causal interpretation when the data generating process is in fact nonlinear. We show that vector autoregressions and linear local projections onto observed shocks or proxies identify weighted averages of causal effects regardless of the extent of nonlinearities. By contrast, identification approaches that exploit heteroskedasticity or non-Gaussianity of latent shocks are highly sensitive to departures from linearity. Our analysis is based on new results on the identification of marginal treatment effects through weighted regressions, which may also be of interest to researchers outside macroeconomics.
 </small></div>
 
 **Standard Errors for Calibrated Parameters** (with Matthew D. Cocci). *Review of Economic Studies* 92(5), 2025, 2952-2978.\
