@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 \
-Professor of Economics\
-Princeton University
+Professor in Economics and the College\
+University of Chicago
 
 ### Contact information:
-Office 282\
-Julis Romo Rabinowitz Building\
-Princeton, NJ 08544
+SHFE 316\
+1126 E. 59th Street\
+Chicago, IL 60637
 
-mikkelpm [at] princeton [dot] edu
+mikkelpm [at] uchicago [dot] edu
 

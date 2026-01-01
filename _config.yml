@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mikkel Plagborg-Møller"
 title_separator          : "-"
 name                     : &name "Mikkel Plagborg-Møller"
-description              : &description "Assistant Professor at Princeton University"
+description              : &description "Professor at University of Chicago"
 url                      : https://www.mikkelpm.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mikkelpm/mikkelpm.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : #"Mikkel Plagborg-Møller"
   avatar           : "profile.jpg"
-  bio              : #"Assistant Professor, Department of Economics, Princeton University"
+  bio              : #"Professor, Department of Economics, University of Chicago"
   location         : 
-  employer         : Princeton University
+  employer         : University of Chicago
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=uQPMeD8AAAAJ"
-  email            : "mikkelpm [at] princeton [dot] edu"
+  email            : "mikkelpm [at] uchicago [dot] edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
