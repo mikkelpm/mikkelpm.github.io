@@ -3,6 +3,10 @@ permalink: /teaching/
 title: Teaching
 ---
 
+## Online
+
+**Local Projections for Applied Macroeconomics**: [GitHub repo](https://github.com/mikkelpm/lp_course)
+
 ## Graduate
 
 **Advanced Econometrics: Time Series Models** (ECO 513), Princeton University\
