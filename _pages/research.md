@@ -3,17 +3,15 @@ permalink: /research/
 title: Research
 ---
 
-## Working papers
+## Publications
 
-**Double Robustness of Local Projections and Some Unpleasant VARithmetic** (with José Luis Montiel Olea, Eric Qian, and Christian K. Wolf). 2026.\
+**Double Robustness of Local Projections and Some Unpleasant VARithmetic** (with José Luis Montiel Olea, Eric Qian, and Christian K. Wolf). *Econometrica*, 2026, forthcoming.\
 <small><a href="#/" onclick="visib('lp_varithmetic')">Abstract</a> &bull; [Working paper](../files/lp_varithmetic.pdf) &bull; [Supplement](../files/lp_varithmetic_supplement.pdf) &bull; [Slides](../files/lp_varithmetic_slides.pdf) &bull; [Replication materials](https://github.com/ckwolf92/lp_var_inference) &bull; [arXiv](https://arxiv.org/abs/2405.09509)</small>
 <div id="lp_varithmetic" style="display: none; text-align: justify; line-height: 1.1; margin: -1em 0em 1em 0em" ><small>
 We consider impulse response inference in a locally misspecified vector autoregression (VAR) model. The conventional local projection (LP) confidence interval has correct coverage even when the misspecification is so large that it can be detected with probability approaching 1. This result follows from a "double robustness" property analogous to that of popular partially linear regression estimators. By contrast, the conventional VAR confidence interval with short-to-moderate lag length can severely undercover for misspecification that is small, difficult to detect statistically, and cannot be ruled out based on economic theory. The VAR confidence interval has robust coverage if, and only if, the lag length is so large that the interval is as wide as the LP interval.
 </small></div>
 
-## Publications
-
-**Local Projections or VARs? A Primer for Macroeconomists** (with José Luis Montiel Olea, Eric Qian, and Christian K. Wolf). *NBER Macroeconomics Annual*, 2025, accepted.\
+**Local Projections or VARs? A Primer for Macroeconomists** (with José Luis Montiel Olea, Eric Qian, and Christian K. Wolf). *NBER Macroeconomics Annual* 40, 2026, 111-152.\
 <small><a href="#/" onclick="visib('lp_var_primer')">Abstract</a> &bull; [Working paper](../files/lp_var_primer.pdf) &bull; [Supplement](../files/lp_var_primer_supplement.pdf) &bull; [Slides](../files/lp_var_primer_slides.pdf) &bull; [Matlab code](https://github.com/ckwolf92/lp_var_nberma) &bull; [arXiv](https://arxiv.org/abs/2503.17144)</small>
 <div id="lp_var_primer" style="display: none; text-align: justify; line-height: 1.1; margin: -1em 0em 1em 0em" ><small>
 What should applied macroeconomists know about local projection (LP) and vector autoregression (VAR) impulse response estimators? The two methods share the same estimand, but in finite samples lie on opposite ends of a bias-variance trade-off. While the low bias of LPs comes at a quite steep variance cost, this cost must be paid to achieve robust uncertainty assessments. Hence, when the goal is to convey what can be learned about dynamic causal effects from the data, VARs should only be used with long lag lengths, ensuring equivalence with LP. For LP estimation, we provide guidance on selection of lag length and controls, bias correction, and confidence interval construction.
