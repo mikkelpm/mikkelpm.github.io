@@ -6,7 +6,7 @@ title: Research
 ## Working papers
 
 **Limited-Information Estimation of Heterogeneous Agent Models** (with Laura Liu and Nelson Matthew P. Tan). 2026.\
-<small><a href="#/" onclick="visib('estim_ha')">Abstract</a> &bull; [Working paper](../files/estim_ha.pdf)</small>
+<small><a href="#/" onclick="visib('estim_ha')">Abstract</a> &bull; [Working paper](../files/estim_ha.pdf) &bull; [arXiv](https://arxiv.org/abs/2608.13953)</small>
 <div id="estim_ha" style="display: none; text-align: justify; line-height: 1.1; margin: -1em 0em 1em 0em" ><small>
 We develop a method for estimating and testing a single block of a macroeconomic model with heterogeneous agents, without placing assumptions on the structure of the rest of the economy. In a large class of models, individual agents' decisions depend on the macroeconomy only through their expectations of the evolution of a finite-dimensional vector of "sufficient statistics" (e.g., asset returns or aggregate earnings). Our estimator selects the structural parameters that provide the best model-consistent fit between empirical impulse responses with respect to identified macro shocks of (a) cross-sectional moments of agent choices (e.g., moments of consumption) and (b) the vector of sufficient statistics. In a simulation illustration, we estimate a two-asset heterogeneous household model block without restricting production, firm investment, financial intermediation, monetary policy, trade, etc.
 </small></div>
