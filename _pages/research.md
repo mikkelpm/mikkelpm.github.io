@@ -12,7 +12,7 @@ We develop a method for estimating and testing a single block of a macroeconomic
 </small></div>
 
 **Optimal Policy With Noisy Sufficient Statistics** (with José Luis Montiel Olea and Christian K. Wolf). 2026.\
-<small><a href="#/" onclick="visib('noisy_optpol')">Abstract</a> &bull; [Working paper](../files/noisy_optpol.pdf)</small>
+<small><a href="#/" onclick="visib('noisy_optpol')">Abstract</a> &bull; [Working paper](../files/noisy_optpol.pdf) &bull; [arXiv](https://arxiv.org/abs/2610.40582)</small>
 <div id="noisy_optpol" style="display: none; text-align: justify; line-height: 1.1; margin: -1em 0em 1em 0em" ><small>
 We study how policy-makers should set $k$ policy instruments so as to best hit $m$ (perhaps dynamic) targets, in a linear-quadratic model where there is statistical uncertainty about the causal effects of the policies. Plugging the estimated effects into "sufficient statistics" optimal policy formulas, as commonly done in the literature, can result in infinite risk. In fact, maintaining the <em>status quo</em> regardless of the data is uniquely minimax-optimal when $m>1$, and uniquely minimax-regret-optimal when $m,k>1$. Nevertheless, we recommend that policy-makers adopt a simple, dampened version of the popular plug-in rule, as in Fisher (1962) and Brainard (1967). Not only does this <em>cautious</em> rule outperform doing nothing over most of the parameter space, its worst-case risk is also close to the minimax value in empirically relevant models. Policy-makers should use causal effect estimates from an unbiased but dispersed estimator (such as a local projection) rather than from a moderately biased but precise estimator (such as a vector autoregression).
 </small></div>
