@@ -5,9 +5,16 @@ title: Teaching
 
 ## Online
 
-**Local Projections for Applied Macroeconomics**: [GitHub repo](https://github.com/mikkelpm/lp_course)
+**Econometric Methods for Macroeconomics**: comprehensive quarter-length course for advanced undergraduates and Master's students (Python code)\
+[GitHub repo](https://github.com/mikkelpm/macro_econometrics)
+
+**Local Projections for Applied Macroeconomics**: short course on implementation of local projections, not for absolute beginners (Stata code)\
+[GitHub repo](https://github.com/mikkelpm/lp_course)
 
 ## Graduate
+
+**Advanced Time Series Analysis** (ECON 31730), University of Chicago\
+<small>[Spring 2026](../files/econ31730_2026s_syllabus.pdf)</small>
 
 **Advanced Econometrics: Time Series Models** (ECO 513), Princeton University\
 <small>[Spring 2024](../files/eco513_2024spring_syllabus.pdf), [Fall 2022](../files/eco513_2022fall_syllabus.pdf), [Spring 2021](../files/eco513_2021spring_syllabus.pdf), [Spring 2019](../files/eco513_2019spring_syllabus.pdf), [Fall 2017](../files/eco513_2017fall_syllabus.pdf)</small>
@@ -25,6 +32,9 @@ title: Teaching
 <small>[Fall 2016](../files/ec2140_2016fall_syllabus.pdf)</small>
 
 ## Undergraduate
+
+**Econometric Methods for Macroeconomics** (ECMA 31150), University of Chicago\
+<small>[Spring 2026](../files/ecma31150_2026s_syllabus.pdf)</small>
 
 **Econometrics** (ECO 302), Princeton University\
 <small>[Spring 2025](../files/eco302_2025spring_syllabus.pdf)</small>
