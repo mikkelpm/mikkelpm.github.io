@@ -5,11 +5,9 @@ title: Teaching
 
 ## Online
 
-**Econometric Methods for Macroeconomics**: comprehensive quarter-length course for advanced undergraduates and Master's students (Python code)\
-[GitHub repo](https://github.com/mikkelpm/macro_econometrics)
+**[Econometric Methods for Macroeconomics](https://github.com/mikkelpm/macro_econometrics)**: comprehensive quarter-length course for advanced undergraduate and Master's students (Python code)
 
-**Local Projections for Applied Macroeconomics**: short course on implementation of local projections, not for absolute beginners (Stata code)\
-[GitHub repo](https://github.com/mikkelpm/lp_course)
+**[Local Projections for Applied Macroeconomics](https://github.com/mikkelpm/lp_course)**: short course on implementation of local projections, not for absolute beginners (Stata code)
 
 ## Graduate
 
